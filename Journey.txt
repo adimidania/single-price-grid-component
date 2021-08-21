@@ -1,0 +1,10 @@
+August 21 , 6:08 P.M
+
+Well today I'm not feeling good, so I decided to pick a simple challenge, and try to finish it in less than 
+a hour since is too easy.
+At the first look, I guess I won't bother myself by using grid layout, I will just go for flexbox layout!
+Here we go!
+
+Challenge done at 7:20 P.M 
+
+I hope one day I'll get better at this :D
