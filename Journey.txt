@@ -5,6 +5,6 @@ a hour since is too easy.
 At the first look, I guess I won't bother myself by using grid layout, I will just go for flexbox layout!
 Here we go!
 
-Challenge done at 7:20 P.M 
+Challenge done at 7:01 P.M 
 
 I hope one day I'll get better at this :D
